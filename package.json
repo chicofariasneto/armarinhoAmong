@@ -1,0 +1,24 @@
+{
+  "name": "armarinhoamong",
+  "version": "1.0.0",
+  "description": "This is an api rest used as a practice and learning tool during the stack js Among Corp course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chicofariasneto/armarinhoAmong.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "rest"
+  ],
+  "author": "chicofariasneto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chicofariasneto/armarinhoAmong/issues"
+  },
+  "homepage": "https://github.com/chicofariasneto/armarinhoAmong#readme"
+}
