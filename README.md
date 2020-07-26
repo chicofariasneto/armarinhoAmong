@@ -15,14 +15,25 @@ Então ela teve a brilhante ideia de desenvolver um simples aplicativo mobile pa
 * Nota: Não iremos abordar, autenticação e segurança de usuários neste curso, sendo assim apenas Juleska utilizará o aplicativo. Caso seja do interesse de algum aluno, o instrutor poderá divulgar algum material ao final do curso ou oferecer apoio.
 
 - Ementa Backend (Api Rest e nodeJS)
-    - Revisão de JavaScript, apresentação do Schema do Banco de dados e Configuração do Ambiente
+    - Revisão de JavaScript, criação do Schema do Banco de dados
     - Estrutura da API, Express e (Fs e Path, para múltiplos controllers)
     - Criando rotas, suas regras de negócios e pequenos testes.
     - Refatoração de Código, uma maneira de organizar seu código e facilitar manutenções
     - Finalizando a API, e subindo a aplicação para o Heroku.
 
-### Aula 01 - Juleska desvendando os segredos do JavaScript, e passando raiva para configurar sua máquina.
-Soon...
+### Aula 01 - Juleska desvendando os segredos do JavaScript, e criando o script do banco de dados
+- Conteúdo
+    - Parte 1: Javascript Review
+        - Comandos Básicos
+        - If, else, else if
+        - For, While
+        - Try e Catch
+        - Functions
+        - Require, Module Exports
+        - Array, Map
+        - Async Functions
+    - Parte 2: Script PostgreSQL
+        - Escrevendo
 
 ### Aula 02 - Juleska elaborando uma estrutura de arquitetura para sua API, e conhecendo algumas bibliotecas do node.
 Soon...
